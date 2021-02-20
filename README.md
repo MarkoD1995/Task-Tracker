@@ -1,3 +1,14 @@
+To start npm server run this command: npm run server
+Then, in the second terminal window run: npm run.
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
